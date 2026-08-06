@@ -16,3 +16,11 @@ This project evaluates retail sales performance, customer segments, and profitab
 | Category | Sales | Profit | Average Discount | Status |
 | -------- | ----- | ------ | ---------------- | ------ |
 | Technology | $815.26K | $140.55K | 15% | HIGH PROFIT |
+| Office Supplies | $701.04K | $120.43K | 18% | HIGH VOLUME |
+| Furniture | $711.35K | $16.44K | 19% | MARGIN LEAK |
+
+### Top performer
+Technology delivers the highest revenue and maximum profit while office supplies drives volume (22.9K). 
+
+### Margin Loss
+Furniture experiences significant profit reduction due to heavy promotional discounting across specific sub-categories.
