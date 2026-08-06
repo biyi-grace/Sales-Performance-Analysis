@@ -7,5 +7,12 @@ This project evaluates retail sales performance, customer segments, and profitab
 
 ### Product Analysis Dashboard 
 <img width="899" height="507" alt="salesdata2" src="https://github.com/user-attachments/assets/963abe96-756c-46dd-b27f-20ce07ce040c" />
+
 ### Time Series Dashboard
 <img width="900" height="507" alt="salesdata3" src="https://github.com/user-attachments/assets/e156862a-ac0c-4330-a72e-e033ba13e9b9" />
+
+### KEY INSIGHTS & BUSINESS RECOMMENDATIONS
+
+| Category | Sales | Profit | Average Discount | Status |
+| -------- | ----- | ------ | ---------------- | ------ |
+| Technology | $815.26K | $140.55K | 15% | HIGH PROFIT |
