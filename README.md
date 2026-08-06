@@ -11,7 +11,7 @@ This project evaluates retail sales performance, customer segments, and profitab
 ### Time Series Dashboard
 <img width="900" height="507" alt="salesdata3" src="https://github.com/user-attachments/assets/e156862a-ac0c-4330-a72e-e033ba13e9b9" />
 
-### KEY INSIGHTS & BUSINESS RECOMMENDATIONS
+### KEY INSIGHTS
 
 | Category | Sales | Profit | Average Discount | Status |
 | -------- | ----- | ------ | ---------------- | ------ |
@@ -24,3 +24,13 @@ Technology delivers the highest revenue and maximum profit while office supplies
 
 ### Margin Loss
 Furniture experiences significant profit reduction due to heavy promotional discounting across specific sub-categories.
+
+### Customer & Regional Breakdown
+* **Customer Segments:** Consumer segment drives over half of total revenue ($1.12M), followed by Corporate ($0.69M) and Home Office ($0.42M).
+* **Shipping & Top Regions:** Standard Class accounts for 59.4% ($1.32M) of revenue. West Region leads in profitability, generating $700K in revenue and $107K in net profit.
+* **Profit Leakage:** Central Region brings the lowest profit despite generating $490.6K in revenue, caused by heavy over-discounting (consuming 35.49% of all discounts).
+
+## Business Recommendations
+
+* **Cap *Furniture* discounts at 20%:** Implement strict discount caps on Furniture (specifically Tables and Bookcases) to eliminate negative margin transactions while maintaining unit volume.
+* **Regional Discounting Controls:** Establish strict pricing control in Central Region (specifically Texas and Illinois) to eliminate revenue leakage and protect net margins.
